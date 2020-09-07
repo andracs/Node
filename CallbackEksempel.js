@@ -1,4 +1,4 @@
-(num1, num2, callback) => {
+function calc(num1, num2, callback) {
     return callback(num1, num2)
 }
 
